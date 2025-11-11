@@ -10,4 +10,7 @@ I am a Ph.D. candidate at the Georgia Institute of Technology in the School of C
 
 ---
 
-
+### 📬 Contact
+- **Email:** [ssahin8@gatech.edu](mailto:ssahin8@gatech.edu)
+- **Google Scholar:** [View Profile](https://scholar.google.com/citations?user=cALMlCcAAAAJ&hl=tr)
+---
