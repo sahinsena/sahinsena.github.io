@@ -29,5 +29,5 @@ Yuqi Hu, Suood Al Roomi, **Sena Sahin**, and Frank Li.
 *IEEE Symposium on Security and Privacy (***IEEE S&P**) 2023.* (acceptance rate: 17%)
 
 **[Don’t Forget the Stuffing! Revisiting the Security Impact of Typo-Tolerant Password Authentication](/files/ccs2021_typo_tolerant.pdf)**  
-Sena Sahin and Frank Li.  
+**Sena Sahin** and Frank Li.  
 *ACM Conference on Computer and Communications Security (**CCS**) 2021.* (acceptance rate: 22%)
