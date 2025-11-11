@@ -5,7 +5,7 @@ type: "Conference Talk"
 permalink: /talks/2025-ccs-power-cip
 venue: "ACM Conference on Computer and Communications Security (CCS)"
 date: 2025-01-01
-location: "Taipei, Taiwan"
+location: "Taipei, Taiwan-(remote)"
 ---
 
 ---
