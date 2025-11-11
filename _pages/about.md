@@ -22,7 +22,8 @@ I am a Ph.D. candidate at the Georgia Institute of Technology in the School of C
 
 **[Unmasking the Security and Usability of Password Masking](/files/PasswordMasking_CCS24.pdf)**  
 Yuqi Hu, Suood Al Roomi, **Sena Sahin**, and Frank Li.  
-*ACM Conference on Computer and Communications Security (**CCS**) 2024.* (acceptance rate: 17%) ***Distinguished Paper Award**
+*ACM Conference on Computer and Communications Security (**CCS**) 2024.* (acceptance rate: 17%) 
+***Distinguished Paper Award**
 
 **[Investigating the Password Policy Practices of Website Administrators](/files/PasswordPolicy-IEEES&P2023.pdf)**  
 **Sena Sahin**, Suood Al Roomi, Tara Poteat, and Frank Li.  
