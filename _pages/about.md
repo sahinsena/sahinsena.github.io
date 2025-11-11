@@ -13,21 +13,21 @@ I am a Ph.D. candidate at the Georgia Institute of Technology in the School of C
 ## Publications
 
 **[The Challenges and Opportunities with Cybersecurity Regulations: A Case Study of the US Electric Power Sector](/files/NERCCIP-CCS2025.pdf)**  
-Sena Sahin, Burak Sahin, Robin Berthier, Kate Davis, Saman Zonouz, and Frank Li.  
-*ACM Conference on Computer and Communications Security (CCS) 2025.* (acceptance rate: 14%)
+**Sena Sahin**, Burak Sahin, Robin Berthier, Kate Davis, Saman Zonouz, and Frank Li.  
+*ACM Conference on Computer and Communications Security (**CCS**) 2025.* (acceptance rate: 14%)
 
 **[Was This You? Investigating the Design Considerations for Suspicious Login Notifications](/files/SuspiciousLoginNotificationNDSS2025.pdf)**  
-Sena Sahin, Burak Sahin, and Frank Li.  
-*Network and Distributed System Security Symposium (NDSS) 2025.* (acceptance rate: 16%)
+**Sena Sahin**, Burak Sahin, and Frank Li.  
+*Network and Distributed System Security Symposium (**NDSS**) 2025.* (acceptance rate: 16%)
 
 **[Unmasking the Security and Usability of Password Masking](/files/PasswordMasking_CCS24.pdf)**  
-Yuqi Hu, Suood Al Roomi, Sena Sahin, and Frank Li.  
-*ACM Conference on Computer and Communications Security (CCS) 2024.* (acceptance rate: 17%) **Distinguished Paper Award**
+Yuqi Hu, Suood Al Roomi, **Sena Sahin**, and Frank Li.  
+*ACM Conference on Computer and Communications Security (**CCS**) 2024.* (acceptance rate: 17%) ***Distinguished Paper Award**
 
 **[Investigating the Password Policy Practices of Website Administrators](/files/PasswordPolicy-IEEES&P2023.pdf)**  
-Sena Sahin, Suood Al Roomi, Tara Poteat, and Frank Li.  
-*IEEE Symposium on Security and Privacy (IEEE S&P) 2023.* (acceptance rate: 17%)
+**Sena Sahin**, Suood Al Roomi, Tara Poteat, and Frank Li.  
+*IEEE Symposium on Security and Privacy (***IEEE S&P**) 2023.* (acceptance rate: 17%)
 
 **[Don’t Forget the Stuffing! Revisiting the Security Impact of Typo-Tolerant Password Authentication](/files/ccs2021_typo_tolerant.pdf)**  
 Sena Sahin and Frank Li.  
-*ACM Conference on Computer and Communications Security (CCS) 2021.* (acceptance rate: 22%)
+*ACM Conference on Computer and Communications Security (**CCS**) 2021.* (acceptance rate: 22%)
