@@ -24,7 +24,7 @@ Sena Sahin, Burak Sahin, and Frank Li.
 Yuqi Hu, Suood Al Roomi, Sena Sahin, and Frank Li.  
 *ACM Conference on Computer and Communications Security (CCS) 2024.* (acceptance rate: 17%) **Distinguished Paper Award**
 
-**[Investigating the Password Policy Practices of Website Administrators](/files/PasswordPolicy-IEEE S&P2023.pdf)**  
+**[Investigating the Password Policy Practices of Website Administrators](/files/PasswordPolicy-IEEES&P2023.pdf)**  
 Sena Sahin, Suood Al Roomi, Tara Poteat, and Frank Li.  
 *IEEE Symposium on Security and Privacy (IEEE S&P) 2023.* (acceptance rate: 17%)
 
