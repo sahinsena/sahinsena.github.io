@@ -1,4 +1,4 @@
-<!-- ---
+---
 layout: archive
 title: "Talks and presentations"
 permalink: /talks/
@@ -13,34 +13,7 @@ author_profile: true
 
 {% for post in site.talks reversed %}
   {% include archive-single-talk.html %}
-{% endfor %} -->
-
-
-
----
-layout: archive
-title: "Talks"
-permalink: /talks/
-author_profile: true
----
-
-{% assign talks = site.talks | sort: 'date' | reverse %}
-{% assign current_year = "" %}
-
-{% for t in talks %}
-  {% assign y = t.date | date: "%Y" %}
-  {% if y != current_year %}
-<h2>{{ y }}</h2>
-{% assign current_year = y %}
-  {% endif %}
-
-<p>
-  <strong>{{ t.title }}</strong><br>
-  {% if t.venue %}<em>{{ t.venue }}</em>{% endif %}{% if t.location %}{% if t.venue %}, {% endif %}{{ t.location }}{% endif %}
-  {% if t.date %} — {{ t.date | date: "%Y" }}{% endif %}
-  <!-- If you prefer Month Day, Year instead of Year-only, replace the previous date with:
-       {{ t.date | date: "%B %-d, %Y" }} -->
-  {% if t.slides %}<br><a href="{{ t.slides | relative_url }}" target="_blank" rel="noopener">Slides</a>{% endif %}
-  {% if t.video %}{% if t.slides %} · {% endif %}<a href="{{ t.video }}" target="_blank" rel="noopener">Video</a>{% endif %}
-</p>
 {% endfor %}
+
+
+
